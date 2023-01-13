@@ -28,7 +28,9 @@ Here are some ideas to get you started:
 
 👩‍💻 Data Scientist (22.12.26~)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YIEGR&show_icons=true&theme=tokyonight)
+
+![Github stats](https://github-readme-stats-zeta-six-39.vercel.app/api?username=YIEGR)
+
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YIEGR&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-zeta-six-39.vercel.app/api/top-langs/?username=YIEGR)
 </div>
