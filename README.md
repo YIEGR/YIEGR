@@ -39,11 +39,13 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-c-yellow?style=flat&logo=c&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/-figma-black?style=flat&logo=figma&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=ffffff"/>
+
+
 <img src="https://img.shields.io/badge/-css3-green?style=flat&logo=css3&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/-JavaScript-red?style=flat&logo=JavaScipt&logoColor=ffffff"/>
+ <img src="https://img.shields.io/badge/-JavaScript-red?style=flat&logo=JavaScipt&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/-jupyter-orange?style=flat&logo=jupyter&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/-git-green?style=flat&logo=git&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/-tableau-pink?style=flat&logo=git&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/-tableau-pink?style=flat&logo=tableau&logoColor=ffffff"/>
 
 
 ![Github stats](https://github-readme-stats-zeta-six-39.vercel.app/api?username=YIEGR)
