@@ -34,7 +34,9 @@ Here are some ideas to get you started:
 📂Tech Stack
 
 <img src="https://img.shields.io/badge/-python-blue?style=flat&logo=python&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/-MySQL-navy?style=flat&logo=python&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/-MySQL-navy?style=flat&logo=mysql&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/-JAVA-orange?style=flat&logo=JAVA&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/-c-yellow?style=flat&logo=c&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/-figma-black?style=flat&logo=figma&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/-css3-green?style=flat&logo=css3&logoColor=ffffff"/>
