@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 🎓 Yonsei University Industrial Engineering
 
-🖋 Data Science / ML, NLP, CV, Recommender system
+🖋 Data Science / ML, NLP, CV
 
 👩‍💻 Data Scientist (22.12.26~)
 
@@ -35,16 +35,9 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/-python-blue?style=flat&logo=python&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/-MySQL-navy?style=flat&logo=mysql&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/-JAVA-orange?style=flat&logo=JAVA&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/-c-yellow?style=flat&logo=c&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/-figma-black?style=flat&logo=figma&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=ffffff"/>
-
-
 <img src="https://img.shields.io/badge/-css3-green?style=flat&logo=css3&logoColor=ffffff"/>
- <img src="https://img.shields.io/badge/-JavaScript-red?style=flat&logo=JavaScipt&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/-jupyter-orange?style=flat&logo=jupyter&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/-git-green?style=flat&logo=git&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/-JavaScript-red?style=flat&logo=JavaScipt&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/-tableau-pink?style=flat&logo=tableau&logoColor=ffffff"/>
 
 
