@@ -36,8 +36,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-python-blue?style=flat&logo=python&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/-MySQL-navy?style=flat&logo=mysql&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/-c-yellow?style=flat&logo=c&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/-css3-green?style=flat&logo=css3&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/-JavaScript-red?style=flat&logo=JavaScipt&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/-tableau-pink?style=flat&logo=tableau&logoColor=ffffff"/>
 
 
