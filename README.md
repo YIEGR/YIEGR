@@ -26,9 +26,7 @@ Here are some ideas to get you started:
 
 🎓 Yonsei University Industrial Engineering
 
-🖋 Data Science / ML, NLP, CV
-
-👩‍💻 Data Scientist (22.12.26~)
+🖋 Data Science / CV(OOD)
 
 
 📂Tech Stack
